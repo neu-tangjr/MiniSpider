@@ -46,7 +46,7 @@ class TestCrawlThread(unittest.TestCase):
         """
         test True fot is_target_url() function
         """
-        url = 'http://img.firefoxchina.cn/2016/07/4/201607010831530.jpg'
+        # url = 'http://img.firefoxchina.cn/2016/07/4/201607010831530.jpg'
         self.assertTrue(self.crawlthread.is_target_url(url))
 
     def test_is_not_targeturl(self):

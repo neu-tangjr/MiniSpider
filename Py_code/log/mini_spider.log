@@ -1,0 +1,24 @@
+INFO: 03-04 01:49:03: run_main.py:29 * 20732  * miniSpider is starting ...      
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第0个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第1个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第2个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第3个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第4个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第5个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第6个线程开始工作
+INFO: 03-04 01:49:03: mini_spider.py:179 * 20732 第7个线程开始工作
+INFO: 03-04 01:49:03: crawl_thread.py:59 * 22432 thread - 0    : get a url  in depth : 0
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 1th times
+INFO: 03-04 01:49:03: crawl_thread.py:59 * 22312 thread - 1    : get a url  in depth : 0
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 2th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 1th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 3th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 2th times
+WARNING: 03-04 01:49:03: downloader.py:75 * 22432 * Downloading failed : b'http://image.baidu.com'-module 'urllib' has no attribute 'urlopen'
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 3th times
+WARNING: 03-04 01:49:03: downloader.py:75 * 22312 * Downloading failed : b'http://www.hupu.com'-module 'urllib' has no attribute 'urlopen'
+INFO: 03-04 01:49:03: mini_spider.py:149 * 20732 crawled  pages  num : 0
+INFO: 03-04 01:49:03: mini_spider.py:151 * 20732 error page num : 2
+INFO: 03-04 01:49:03: mini_spider.py:153 * 20732 reason of ending :normal exits 
+INFO: 03-04 01:49:03: mini_spider.py:155 * 20732 program is ended ... 
+INFO: 03-04 01:49:03: run_main.py:57 * 20732  * miniSpider is ending ...        

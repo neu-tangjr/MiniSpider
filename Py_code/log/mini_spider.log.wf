@@ -1,0 +1,8 @@
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 1th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 2th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 1th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22432  * Try for 3th times
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 2th times
+WARNING: 03-04 01:49:03: downloader.py:75 * 22432 * Downloading failed : b'http://image.baidu.com'-module 'urllib' has no attribute 'urlopen'
+WARNING: 03-04 01:49:03: downloader.py:73 * 22312  * Try for 3th times
+WARNING: 03-04 01:49:03: downloader.py:75 * 22312 * Downloading failed : b'http://www.hupu.com'-module 'urllib' has no attribute 'urlopen'
